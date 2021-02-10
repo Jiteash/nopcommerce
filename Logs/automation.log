@@ -1,0 +1,283 @@
+12152020 06:0629 AM: INFO: ******Test_001_Login********
+12152020 06:0629 AM: INFO: ******Verifying Home Page Title*******
+12152020 06:0633 AM: INFO: ******Verifyinng Login Test ***
+12152020 06:1225 AM: INFO: ******Test_001_Login********
+12152020 06:1225 AM: INFO: ******Verifying Home Page Title*******
+12152020 06:1229 AM: INFO: ******Verifyinng Login Test ***
+12152020 06:1337 AM: INFO: ******Test_001_Login********
+12152020 06:1337 AM: INFO: ******Verifying Home Page Title*******
+12152020 06:1341 AM: INFO: ******Verifyinng Login Test ***
+12152020 07:2338 AM: INFO: ******Test_001_Login********
+12152020 07:2338 AM: INFO: ******Verifying Home Page Title*******
+12152020 07:2352 AM: INFO: ******Verifyinng Login Test ***
+12152020 07:2937 AM: INFO: ******Test_001_Login********
+12152020 07:2937 AM: INFO: ******Verifying Home Page Title*******
+12152020 07:2942 AM: INFO: *****Home page Title Passed ***
+12152020 07:2946 AM: INFO: ******Verifyinng Login Test ***
+12152020 07:2959 AM: INFO: *****Login Test is  Passed ***
+12152020 07:3235 AM: INFO: ******Test_001_Login********
+12152020 07:3235 AM: INFO: ******Verifying Home Page Title*******
+12152020 07:3240 AM: INFO: *****Home page Title Passed ***
+12152020 07:3244 AM: INFO: ******Verifyinng Login Test ***
+12152020 07:3300 AM: INFO: *****Login Test is  Passed ***
+12152020 07:4420 AM: INFO: ******Test_001_Login********
+12152020 07:4420 AM: INFO: ******Verifying Home Page Title*******
+12152020 07:4424 AM: INFO: *****Home page Title Passed ***
+12152020 07:4428 AM: INFO: ******Verifyinng Login Test ***
+12152020 07:4444 AM: INFO: *****Login Test is  Passed ***
+12152020 07:5716 AM: INFO: ******Test_001_Login********
+12152020 07:5716 AM: INFO: ******Verifying Home Page Title*******
+12152020 07:5722 AM: INFO: *****Home page Title Passed ***
+12152020 07:5726 AM: INFO: ******Verifyinng Login Test ***
+12152020 07:5739 AM: INFO: *****Login Test is  Passed ***
+12152020 08:0250 AM: INFO: ******Test_001_Login********
+12152020 08:0250 AM: INFO: ******Verifying Home Page Title*******
+12152020 08:1251 AM: INFO: ******Test_001_Login********
+12152020 08:1251 AM: INFO: ******Verifying Home Page Title*******
+12152020 08:3635 AM: INFO: ******Test_001_Login********
+12152020 08:3635 AM: INFO: ******Verifying Home Page Title*******
+12152020 08:3642 AM: INFO: *****Home page Title Passed ***
+12152020 08:3647 AM: INFO: ******Verifyinng Login Test ***
+12152020 08:3701 AM: INFO: *****Login Test is  Passed ***
+12152020 08:3850 AM: INFO: ******Test_001_Login********
+12152020 08:3850 AM: INFO: ******Verifying Home Page Title*******
+12152020 08:3857 AM: INFO: *****Home page Title Passed ***
+12152020 08:3901 AM: INFO: ******Verifyinng Login Test ***
+12152020 08:3915 AM: INFO: *****Login Test is  Passed ***
+12152020 08:4013 AM: INFO: ******Test_001_Login********
+12152020 08:4013 AM: INFO: ******Verifying Home Page Title*******
+12152020 08:4150 AM: INFO: ******Test_001_Login********
+12152020 08:4150 AM: INFO: ******Verifying Home Page Title*******
+12152020 11:0837 PM: INFO: ******Test_001_Login********
+12152020 11:0837 PM: INFO: ******Verifying Home Page Title*******
+12152020 11:0843 PM: INFO: *****Home page Title Passed ***
+12152020 11:0846 PM: INFO: ******Verifyinng Login Test ***
+12152020 11:0901 PM: INFO: *****Login Test is  Passed ***
+12162020 12:1028 AM: INFO: **** Test_002-DDT_Login ****
+12162020 12:1028 AM: INFO: ******Verifyinng Login Test ***
+12162020 12:1050 AM: INFO: *****Login DDT test passed*******
+12162020 12:1348 AM: INFO: **** Test_002-DDT_Login ****
+12162020 12:1348 AM: INFO: ******Verifyinng Login Test ***
+12162020 12:1901 AM: INFO: **** Test_002-DDT_Login ****
+12162020 12:1901 AM: INFO: ******Verifyinng Login Test ***
+12162020 12:2108 AM: INFO: **** Test_002-DDT_Login ****
+12162020 12:2108 AM: INFO: ******Verifyinng Login Test ***
+12162020 12:2447 AM: INFO: **** Test_002-DDT_Login ****
+12162020 12:2447 AM: INFO: ******Verifyinng Login Test ***
+12162020 12:2832 AM: INFO: **** Test_002-DDT_Login ****
+12162020 12:2832 AM: INFO: ******Verifyinng Login Test ***
+12162020 12:2849 AM: INFO: Running
+12162020 12:2952 AM: INFO: **** Test_002-DDT_Login ****
+12162020 12:2952 AM: INFO: ******Verifyinng Login Test ***
+12162020 12:3036 AM: INFO: **** Test_002-DDT_Login ****
+12162020 12:3036 AM: INFO: ******Verifyinng Login Test ***
+12162020 12:4321 AM: INFO: ******Test_001_Login********
+12162020 12:4321 AM: INFO: ******Verifying Home Page Title*******
+12162020 12:4328 AM: INFO: *****Home page Title Passed ***
+12162020 12:4332 AM: INFO: ******Verifyinng Login Test ***
+12162020 12:4354 AM: WARNING: *****Home page Title Failed ***
+12162020 12:4723 AM: INFO: **** Test_002-DDT_Login ****
+12162020 12:4723 AM: INFO: ******Verifyinng Login Test ***
+12162020 12:4746 AM: INFO: ** Passed **
+12162020 12:4803 AM: INFO: ** Passed **
+12162020 12:4814 AM: INFO: ** Passed **
+12162020 12:4825 AM: INFO: ** Passed **
+12162020 12:4825 AM: INFO: *****Login DDT test passed*******
+12162020 12:4825 AM: INFO: *********** End of Login DDT Test ***********
+12162020 12:4825 AM: INFO: ************* Completed TC_loginDDT_002 ****** 
+12162020 04:3432 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 04:3453 AM: INFO: ************* Login succesful **********
+12162020 04:3453 AM: INFO: ******* Starting Add Customer Test **********
+12162020 04:3742 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 04:3758 AM: INFO: ************* Login succesful **********
+12162020 04:3758 AM: INFO: ******* Starting Add Customer Test **********
+12162020 04:3807 AM: INFO: ************* Providing customer info **********
+12162020 04:3823 AM: INFO: ************* Saving customer info **********
+12162020 04:3823 AM: INFO: ********* Add customer validation started *****************
+12162020 04:4003 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 04:4017 AM: INFO: ************* Login succesful **********
+12162020 04:4017 AM: INFO: ******* Starting Add Customer Test **********
+12162020 04:4024 AM: INFO: ************* Providing customer info **********
+12162020 04:4056 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 04:4108 AM: INFO: ************* Login succesful **********
+12162020 04:4108 AM: INFO: ******* Starting Add Customer Test **********
+12162020 04:4114 AM: INFO: ************* Providing customer info **********
+12162020 04:4527 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 04:4539 AM: INFO: ************* Login succesful **********
+12162020 04:4539 AM: INFO: ******* Starting Add Customer Test **********
+12162020 04:4545 AM: INFO: ************* Providing customer info **********
+12162020 04:4602 AM: INFO: ************* Saving customer info **********
+12162020 04:4602 AM: INFO: ********* Add customer validation started *****************
+12162020 04:5137 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 04:5150 AM: INFO: ************* Login succesful **********
+12162020 04:5150 AM: INFO: ******* Starting Add Customer Test **********
+12162020 04:5156 AM: INFO: ************* Providing customer info **********
+12162020 04:5212 AM: INFO: ************* Saving customer info **********
+12162020 04:5212 AM: INFO: ********* Add customer validation started *****************
+12162020 04:5318 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 04:5331 AM: INFO: ************* Login succesful **********
+12162020 04:5331 AM: INFO: ******* Starting Add Customer Test **********
+12162020 04:5336 AM: INFO: ************* Providing customer info **********
+12162020 04:5352 AM: INFO: ************* Saving customer info **********
+12162020 04:5352 AM: INFO: ********* Add customer validation started *****************
+12162020 04:5803 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 04:5819 AM: INFO: ************* Login succesful **********
+12162020 04:5819 AM: INFO: ******* Starting Add Customer Test **********
+12162020 04:5827 AM: INFO: ************* Providing customer info **********
+12162020 04:5843 AM: INFO: ************* Saving customer info **********
+12162020 04:5843 AM: INFO: ********* Add customer validation started *****************
+12162020 05:0037 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 05:0054 AM: INFO: ************* Login succesful **********
+12162020 05:0054 AM: INFO: ******* Starting Add Customer Test **********
+12162020 05:0101 AM: INFO: ************* Providing customer info **********
+12162020 05:0145 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 05:0157 AM: INFO: ************* Login succesful **********
+12162020 05:0157 AM: INFO: ******* Starting Add Customer Test **********
+12162020 05:0201 AM: INFO: ************* Providing customer info **********
+12162020 05:0248 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 05:0259 AM: INFO: ************* Login succesful **********
+12162020 05:0259 AM: INFO: ******* Starting Add Customer Test **********
+12162020 05:0305 AM: INFO: ************* Providing customer info **********
+12162020 05:0419 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 05:0435 AM: INFO: ************* Login succesful **********
+12162020 05:0435 AM: INFO: ******* Starting Add Customer Test **********
+12162020 05:0439 AM: INFO: ************* Providing customer info **********
+12162020 05:0442 AM: INFO: ************* Saving customer info **********
+12162020 05:0442 AM: INFO: ********* Add customer validation started *****************
+12162020 05:0747 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 05:0800 AM: INFO: ************* Login succesful **********
+12162020 05:0800 AM: INFO: ******* Starting Add Customer Test **********
+12162020 05:0805 AM: INFO: ************* Providing customer info **********
+12162020 05:0843 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 05:0855 AM: INFO: ************* Login succesful **********
+12162020 05:0855 AM: INFO: ******* Starting Add Customer Test **********
+12162020 05:0900 AM: INFO: ************* Providing customer info **********
+12162020 05:0904 AM: INFO: ************* Saving customer info **********
+12162020 05:0904 AM: INFO: ********* Add customer validation started *****************
+12162020 05:0905 AM: INFO: dafafafa
+12162020 05:1158 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 05:1213 AM: INFO: ************* Login succesful **********
+12162020 05:1213 AM: INFO: ******* Starting Add Customer Test **********
+12162020 05:1221 AM: INFO: ************* Providing customer info **********
+12162020 05:1227 AM: INFO: ************* Saving customer info **********
+12162020 05:1227 AM: INFO: ********* Add customer validation started *****************
+12162020 05:1228 AM: ERROR: ********* Add customer Test Failed ************
+12162020 05:1410 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 05:1425 AM: INFO: ************* Login succesful **********
+12162020 05:1425 AM: INFO: ******* Starting Add Customer Test **********
+12162020 05:1431 AM: INFO: ************* Providing customer info **********
+12162020 05:1435 AM: INFO: ************* Saving customer info **********
+12162020 05:1435 AM: INFO: ********* Add customer validation started *****************
+12162020 05:1435 AM: ERROR: ********* Add customer Test Failed ************
+12162020 05:1533 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 05:1549 AM: INFO: ************* Login succesful **********
+12162020 05:1549 AM: INFO: ******* Starting Add Customer Test **********
+12162020 05:1554 AM: INFO: ************* Providing customer info **********
+12162020 05:1601 AM: INFO: ************* Saving customer info **********
+12162020 05:1601 AM: INFO: ********* Add customer validation started *****************
+12162020 05:2052 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 05:2103 AM: INFO: ************* Login succesful **********
+12162020 05:2103 AM: INFO: ******* Starting Add Customer Test **********
+12162020 05:2109 AM: INFO: ************* Providing customer info **********
+12162020 05:2114 AM: INFO: ************* Saving customer info **********
+12162020 05:2114 AM: INFO: ********* Add customer validation started *****************
+12162020 05:2618 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 05:2632 AM: INFO: ************* Login succesful **********
+12162020 05:2632 AM: INFO: ******* Starting Add Customer Test **********
+12162020 05:2641 AM: INFO: ************* Providing customer info **********
+12162020 05:2649 AM: INFO: ************* Saving customer info **********
+12162020 05:2649 AM: INFO: ********* Add customer validation started *****************
+12162020 05:2813 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 05:2822 AM: INFO: ************* Login succesful **********
+12162020 05:2822 AM: INFO: ******* Starting Add Customer Test **********
+12162020 05:2829 AM: INFO: ************* Providing customer info **********
+12162020 05:2833 AM: INFO: ************* Saving customer info **********
+12162020 05:2833 AM: INFO: ********* Add customer validation started *****************
+12162020 05:3644 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 05:3659 AM: INFO: ************* Login succesful **********
+12162020 05:3659 AM: INFO: ******* Starting Add Customer Test **********
+12162020 05:3708 AM: INFO: ************* Providing customer info **********
+12162020 05:3712 AM: INFO: ************* Saving customer info **********
+12162020 05:3712 AM: INFO: ********* Add customer validation started *****************
+12162020 05:3949 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 05:4005 AM: INFO: ************* Login succesful **********
+12162020 05:4005 AM: INFO: ******* Starting Add Customer Test **********
+12162020 05:4011 AM: INFO: ************* Providing customer info **********
+12162020 05:4015 AM: INFO: ************* Saving customer info **********
+12162020 05:4015 AM: INFO: ********* Add customer validation started *****************
+12162020 05:4213 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 05:4229 AM: INFO: ************* Login succesful **********
+12162020 05:4229 AM: INFO: ******* Starting Add Customer Test **********
+12162020 05:4235 AM: INFO: ************* Providing customer info **********
+12162020 05:4240 AM: INFO: ************* Saving customer info **********
+12162020 05:4240 AM: INFO: ********* Add customer validation started *****************
+12162020 05:4243 AM: INFO: ******* Ending Add customer test **********
+12162020 05:4813 AM: INFO: ******Verifyinng Login Test ***
+12162020 05:4826 AM: INFO: *****Login Test is  Passed ***
+12162020 05:4956 AM: INFO: ******Verifyinng Login Test ***
+12162020 05:5009 AM: INFO: *****Login Test is  Passed ***
+12162020 05:5031 AM: INFO: ******Test_001_Login********
+12162020 05:5031 AM: INFO: ******Verifying Home Page Title*******
+12162020 05:5036 AM: INFO: *****Home page Title Passed ***
+12162020 05:5040 AM: INFO: ******Verifyinng Login Test ***
+12162020 05:5052 AM: INFO: *****Login Test is  Passed ***
+12162020 05:5059 AM: INFO: **** Test_002-DDT_Login ****
+12162020 05:5059 AM: INFO: ******Verifyinng Login Test ***
+12162020 05:5122 AM: INFO: ** Passed **
+12162020 05:5137 AM: INFO: ** Passed **
+12162020 05:5148 AM: INFO: ** Passed **
+12162020 05:5200 AM: INFO: ** Passed **
+12162020 05:5200 AM: INFO: *****Login DDT test passed*******
+12162020 05:5200 AM: INFO: *********** End of Login DDT Test ***********
+12162020 05:5200 AM: INFO: ************* Completed TC_loginDDT_002 ****** 
+12162020 05:5334 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 05:5347 AM: INFO: ************* Login succesful **********
+12162020 05:5347 AM: INFO: ******* Starting Add Customer Test **********
+12162020 05:5355 AM: INFO: ************* Providing customer info **********
+12162020 05:5359 AM: INFO: ************* Saving customer info **********
+12162020 05:5359 AM: INFO: ********* Add customer validation started *****************
+12162020 05:5402 AM: INFO: ******* Ending Add customer test **********
+12162020 05:5406 AM: INFO: ******Verifyinng Login Test ***
+12162020 05:5417 AM: INFO: *****Login Test is  Passed ***
+12162020 05:5513 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 05:5528 AM: INFO: ************* Login succesful **********
+12162020 05:5528 AM: INFO: ******* Starting Add Customer Test **********
+12162020 05:5537 AM: INFO: ************* Providing customer info **********
+12162020 05:5545 AM: INFO: ************* Saving customer info **********
+12162020 05:5545 AM: INFO: ********* Add customer validation started *****************
+12162020 05:5545 AM: INFO: ******* Ending Add customer test **********
+12162020 05:5548 AM: INFO: ******Test_001_Login********
+12162020 05:5548 AM: INFO: ******Verifying Home Page Title*******
+12162020 05:5553 AM: INFO: *****Home page Title Passed ***
+12162020 05:5557 AM: INFO: ******Verifyinng Login Test ***
+12162020 05:5610 AM: INFO: *****Login Test is  Passed ***
+12162020 05:5616 AM: INFO: **** Test_002-DDT_Login ****
+12162020 05:5616 AM: INFO: ******Verifyinng Login Test ***
+12162020 05:5638 AM: INFO: ** Passed **
+12162020 05:5657 AM: INFO: ** Passed **
+12162020 05:5708 AM: INFO: ** Passed **
+12162020 05:5720 AM: INFO: ** Passed **
+12162020 05:5720 AM: INFO: *****Login DDT test passed*******
+12162020 05:5720 AM: INFO: *********** End of Login DDT Test ***********
+12162020 05:5720 AM: INFO: ************* Completed TC_loginDDT_002 ****** 
+12162020 06:0130 AM: INFO: ************* Test_003_AddCustomer **********
+12162020 06:0143 AM: INFO: ************* Login succesful **********
+12162020 06:0143 AM: INFO: ******* Starting Add Customer Test **********
+12162020 06:0149 AM: INFO: ************* Providing customer info **********
+12162020 06:0154 AM: INFO: ************* Saving customer info **********
+12162020 06:0154 AM: INFO: ********* Add customer validation started *****************
+12162020 06:0154 AM: INFO: ******* Ending Add customer test **********
+12162020 06:0158 AM: INFO: ******Test_001_Login********
+12162020 06:0158 AM: INFO: ******Verifying Home Page Title*******
+12162020 06:0204 AM: INFO: *****Home page Title Passed ***
+12162020 06:0207 AM: INFO: ******Verifyinng Login Test ***
+12162020 06:0220 AM: INFO: *****Login Test is  Passed ***
+12162020 06:0223 AM: INFO: **** Test_002-DDT_Login ****
+12162020 06:0223 AM: INFO: ******Verifyinng Login Test ***
+12162020 06:0244 AM: INFO: ** Passed **
+12162020 06:0256 AM: INFO: ** Passed **
+12162020 06:0308 AM: INFO: ** Passed **
+12162020 06:0319 AM: INFO: ** Passed **
+12162020 06:0319 AM: INFO: *****Login DDT test passed*******
+12162020 06:0319 AM: INFO: *********** End of Login DDT Test ***********
+12162020 06:0319 AM: INFO: ************* Completed TC_loginDDT_002 ****** 
